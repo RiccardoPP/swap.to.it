@@ -1,2 +1,2 @@
-# Trade.to.it
-Parking page for trade.to.it
+# Swap.to.it
+Parking page for swap.to.it
